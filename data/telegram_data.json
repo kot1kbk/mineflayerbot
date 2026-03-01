@@ -1,0 +1,63 @@
+{
+  "clanData": {
+    "s2": {
+      "place": 1,
+      "leader": "Aurlands",
+      "kills": 105,
+      "kdr": 27885,
+      "members": 316,
+      "rawLine": "1. Клан: ChertHouse. Глава: Aurlands, Убийств: 105, КДР: 27885, Участников: 316",
+      "timestamp": 1772305165530
+    },
+    "s3": {
+      "place": 1,
+      "leader": "KoTiK_B_KeDaH_",
+      "kills": 1231,
+      "kdr": 31111,
+      "members": 327,
+      "rawLine": "1. Клан: ChertHouse. Глава: KoTiK_B_KeDaH_, Убийств: 1231, КДР: 31111, Участников: 327",
+      "timestamp": 1772305214877
+    },
+    "s4": {
+      "place": 4,
+      "leader": "KoTiK_B_KeDaH_",
+      "kills": 28,
+      "kdr": 5608,
+      "members": 63,
+      "rawLine": "4. Клан: ChertHouse. Глава: KoTiK_B_KeDaH_, Убийств: 28, КДР: 5608, Участников: 63",
+      "timestamp": 1771933320720
+    },
+    "s7": {
+      "place": 1,
+      "leader": "tan4ikiast",
+      "kills": 165,
+      "kdr": 19025,
+      "members": 249,
+      "rawLine": "1. Клан: ChertHouse. Глава: tan4ikiast, Убийств: 165, КДР: 19025, Участников: 249",
+      "timestamp": 1772304939521
+    },
+    "s8": {
+      "place": 1,
+      "leader": "marinettko",
+      "kills": 18,
+      "kdr": 10198,
+      "members": 123,
+      "rawLine": "1. Клан: ChertHouse. Глава: marinettko, Убийств: 18, КДР: 10198, Участников: 123",
+      "timestamp": 1772305194524
+    }
+  },
+  "subscribers": [
+    8345826744,
+    7552133053,
+    -5291161727,
+    8385889294,
+    -5285388164
+  ],
+  "lastUpdate": {
+    "s7": 1772304939521,
+    "s2": 1772305165530,
+    "s3": 1772305214878,
+    "s4": 1771933320721,
+    "s8": 1772305194524
+  }
+}
